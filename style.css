@@ -365,6 +365,16 @@ img {
   }
 }
 
+.viewmore {
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+  margin-top: 40px;    
+}
+
+.btns{
+  padding: 20px 50px;
+}
 /* Skills */
 .chips {
   display: flex;
